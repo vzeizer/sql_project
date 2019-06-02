@@ -1,9 +1,9 @@
-# **SQL Project Chinook**
+# *SQL Project Chinook*
 
 ## In this project the database Chinook is investigated, which holds information of a music store.
-## I am going to help Chinook stafff to comprehend the midia of its store, its clients, employers and bill information.
+## I am going to help Chinook staff to comprehend the midia of its store, its clients, employers and bill information.
 
-## Instruções
+## Instruções do Projeto
 
 ### Você precisará seguir as instruções nos próximos três tópicos para conseguir deixar o banco de dados Chinook em pleno funcionamento em sua própria máquina e verificar se ele está configurado corretamente. 
 ### Haverá duas partes para este projeto.
