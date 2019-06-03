@@ -3,21 +3,30 @@
 ## In this project the database Chinook is investigated, which holds information of a music store.
 ## I am going to help Chinook staff to comprehend the midia of its store, its clients, employers and bill information.
 
-## Instruções do Projeto
+## Project Instructions (according to Udacity)
 
-### Você precisará seguir as instruções nos próximos três tópicos para conseguir deixar o banco de dados Chinook em pleno funcionamento em sua própria máquina e verificar se ele está configurado corretamente. 
-### Haverá duas partes para este projeto.
+### You will need to follow the instructions in the last three topics to get the database Chinook working at your own machine and verify if it is configured properly.
+### There will be two parts in this project.
 
-### A primeira parte é uma série de perguntas que vão assegurar que você dominou os tópicos principais ensinados pelas aulas sobre SQL. 
-### Embora essas perguntas não vão receber uma nota de um revisor, elas ajudarão você a se auto-avaliar.
+### The _first part_ is questions that are going to assure if you control the main topics taught in the SQL classes.
+### Although these questions are not going to be reviewed by a reviewer, they will help you to self-evalulate.
+
+### The _second part_ is a presentation.
+### Similarly to the first project, there is not a 'right answer' for the second part of the project.
+### You have the ability to be creative in the questions you are going to make.
+### Afterwards, you will write a SQL query to extract the necessary data to successfully answer to your question.
+### Used the downloaded data to construct a graphic (bar chart, histogram or another plot) that answers to your question.
+### The essential when submitting the project is going to be discussed later. 
+### In order to your presentation to be reviewed, you will need to save the slides in PDF.
+
+## presentation_perguntaas.pdf -> it is the answered questions presented in slide form.
+## Rubrics_Udacity Reviews.pdf -> it is the rubrics of the project, which must be fulfilled in order to be approved by a reviewer.
+## chinook.db -> it is the database of the Chinook music store.
+## Chinook_relationships.png -> it shows the relationships between primary keys of Chinook database.
+## solutions_questionsbefore.sql -> it is the questions to be answered to assure you understand sql. 
+## projetoperguntas.sql -> it shows the code in SQL to generate the results of presentation_perguntaas.pdf.
 
 
-### A segunda parte é uma apresentação. De maneira semelhante ao primeiro projeto, não há uma 'resposta correta' para a segunda porção do projeto. 
-### Você tem a habilidade de ser criativo(a) nas perguntas que você fizer. 
-### Em seguida, você irá escrever uma consulta SQL para extrair os dados necessários para responder com êxito a sua pergunta. 
-### Use os dados puxados para construir um gráfico (gráfico de barras, histograma ou outro plot) que responda à sua pergunta. 
-### O essencial no envio de seu projeto será discutido nas próximas seções. 
-### Para que sua apresentação seja revista, você precisará salvar seus slides em PDF.
 
 
 ## MIT License
